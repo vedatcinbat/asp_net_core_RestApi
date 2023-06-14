@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CF5l1tX3ehJlzaOdGp/7FdkN8CjrTKkcvU0HWDH1UGn/jCZLmyRfIvs39mFKRdBZn7uKmdRqm/FkxHCx2dHUAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cinba\\Desktop\\webapi\\basics\\HelloWebApi\\HelloWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cinba\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cinba\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\cinba\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\cinba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\cinba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
